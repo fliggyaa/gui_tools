@@ -9,7 +9,7 @@
 ![image](https://github.com/Fliggyaaa/gui_tools/assets/82925172/a61d11ab-899a-4b73-84cd-4acefb5c3151)
 
 使用方法
-在满足jdk使用环境的情况下将自己主机中所存在的软件路径添加到路径中，也可自定义扩展，环境完成后保存为jar包，放到桌面即可快捷使用
+在满足jdk使用环境的情况下将自己主机中所存在的软件路径添加到路径中，也可自定义扩展，环境完成后保存为jar包，放到桌面即可
 ![image](https://github.com/Fliggyaaa/gui_tools/assets/82925172/13960b64-b578-4c62-8da4-2ae335afeece)
 
 如果扩展或者搭建环境存在疑问，请联系作者：2414738654
